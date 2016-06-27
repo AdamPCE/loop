@@ -1,4 +1,4 @@
-# loop
+# loop.pl
 loop.pl with credits to tim towdy :)
 
 ###
